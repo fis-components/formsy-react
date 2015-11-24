@@ -1,0 +1,10 @@
+{
+    "repos": "https://github.com/christianalfoni/formsy-react.git",
+    "version": "v0.17.0",
+    "name": "formsy-react",
+    "main": "lib/index.js",
+    "dependencies": {
+        "form-data-to-object": "^0.2.0"
+    },
+    "umd2commonjs": false
+}

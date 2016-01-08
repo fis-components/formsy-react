@@ -1,0 +1,13 @@
+{
+    "name": "formsy-react",
+    "description": "A form input builder and validator for React JS",
+    "repos": "https://github.com/christianalfoni/formsy-react.git",
+    "main": "lib/main.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "form-data-to-object": "^0.1.0",
+        "react": "^0.14.0"
+    },
+    "version": "0.17.0"
+}
